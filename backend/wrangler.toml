@@ -1,0 +1,8 @@
+name = "car-api-v3"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "car_db"
+database_id = "ca9dcee2-1eb8-4ec7-961c-30277c36ad92"
